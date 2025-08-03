@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Automotive on Selloff Theme Demo - Items for Sale</title>
+    <link>http://localhost:1313/categories/automotive/</link>
+    <description>Recent content in Automotive on Selloff Theme Demo - Items for Sale</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 30 Jul 2025 12:00:00 -0500</lastBuildDate>
+    <atom:link href="http://localhost:1313/categories/automotive/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Thule Bike Rack</title>
+      <link>http://localhost:1313/items/bike-rack/</link>
+      <pubDate>Wed, 30 Jul 2025 12:00:00 -0500</pubDate>
+      <guid>http://localhost:1313/items/bike-rack/</guid>
+      <description>&lt;h2 id=&#34;description&#34;&gt;Description&lt;/h2&gt;&#xA;&lt;p&gt;Thule roof-mounted bike rack for one bicycle. Compatible with most roof rack systems. Includes all necessary mounting hardware and keys.&lt;/p&gt;&#xA;&lt;h2 id=&#34;additional-notes&#34;&gt;Additional Notes&lt;/h2&gt;&#xA;&lt;p&gt;This item has been sold.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Universal Car Cover</title>
+      <link>http://localhost:1313/items/car-cover/</link>
+      <pubDate>Sun, 27 Jul 2025 16:00:00 -0500</pubDate>
+      <guid>http://localhost:1313/items/car-cover/</guid>
+      <description>&lt;h2 id=&#34;description&#34;&gt;Description&lt;/h2&gt;&#xA;&lt;p&gt;High-quality universal car cover suitable for mid-size sedans and small SUVs. Weather-resistant material protects against UV rays, rain, snow, and dust.&lt;/p&gt;&#xA;&lt;p&gt;Features elastic hem for secure fit and reinforced grommets for tie-down straps. Used seasonally for outdoor car storage.&lt;/p&gt;&#xA;&lt;h2 id=&#34;additional-notes&#34;&gt;Additional Notes&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Fits vehicles 14-16 feet in length&lt;/li&gt;&#xA;&lt;li&gt;UV-resistant polypropylene material&lt;/li&gt;&#xA;&lt;li&gt;Water-resistant but not waterproof&lt;/li&gt;&#xA;&lt;li&gt;Includes tie-down straps&lt;/li&gt;&#xA;&lt;li&gt;Some minor wear but no tears&lt;/li&gt;&#xA;&lt;li&gt;Machine washable&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+    </item>
+  </channel>
+</rss>

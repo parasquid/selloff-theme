@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Kitchen on Selloff Theme Demo - Items for Sale</title>
+    <link>http://localhost:1313/categories/kitchen/</link>
+    <description>Recent content in Kitchen on Selloff Theme Demo - Items for Sale</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 19 Jul 2025 16:45:00 -0500</lastBuildDate>
+    <atom:link href="http://localhost:1313/categories/kitchen/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Digital Kitchen Scale</title>
+      <link>http://localhost:1313/items/kitchen-scale/</link>
+      <pubDate>Sat, 19 Jul 2025 16:45:00 -0500</pubDate>
+      <guid>http://localhost:1313/items/kitchen-scale/</guid>
+      <description>&lt;h2 id=&#34;description&#34;&gt;Description&lt;/h2&gt;&#xA;&lt;p&gt;Precision digital kitchen scale with tempered glass platform. Measures up to 11 lbs with 0.1 oz accuracy. Perfect for baking, portion control, and meal prep.&lt;/p&gt;&#xA;&lt;p&gt;Features multiple units (grams, ounces, pounds), tare function, and auto-shutoff to preserve battery life.&lt;/p&gt;&#xA;&lt;h2 id=&#34;additional-notes&#34;&gt;Additional Notes&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;11 lb capacity with 0.1 oz precision&lt;/li&gt;&#xA;&lt;li&gt;Tempered glass platform (easy to clean)&lt;/li&gt;&#xA;&lt;li&gt;Multiple measurement units&lt;/li&gt;&#xA;&lt;li&gt;Tare function for containers&lt;/li&gt;&#xA;&lt;li&gt;Auto-shutoff feature&lt;/li&gt;&#xA;&lt;li&gt;Slim profile for easy storage&lt;/li&gt;&#xA;&lt;li&gt;Batteries included&lt;/li&gt;&#xA;&lt;li&gt;Some minor scratches on platform but fully functional&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+    </item>
+  </channel>
+</rss>
