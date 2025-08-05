@@ -1,0 +1,43 @@
+{{ define "main" }}
+<div class="container">
+    <header class="header">
+        <h1>{{ .Title }}</h1>
+    </header>
+
+    <div class="items-grid">
+        {{ range .Pages }}
+        <div class="item-card">
+            <a href="{{ .Permalink }}" class="item-link">
+                {{ if .Params.thumbnail }}
+                <div class="item-thumbnail">
+                    <img src="{{ .Params.thumbnail | relURL }}" alt="{{ .Title }}" loading="lazy">
+                </div>
+                {{ else }}
+                <div class="item-thumbnail placeholder">
+                    <span>No Image</span>
+                </div>
+                {{ end }}
+                <div class="item-info">
+                    <h3 class="item-title">{{ .Title }}</h3>
+                    {{ if .Params.price }}
+                    <p class="item-price">{{ .Site.Params.currency }}{{ .Params.price }}</p>
+                    {{ end }}
+                    {{ if .Params.condition }}
+                    <p class="item-condition">{{ .Params.condition }}</p>
+                    {{ end }}
+                    {{ if .Params.categories }}
+                    <div class="item-categories">
+                        {{ range .Params.categories }}
+                        <span class="item-category">{{ . }}</span>
+                        {{ end }}
+                    </div>
+                    {{ else if .Params.category }}
+                    <span class="item-category">{{ .Params.category }}</span>
+                    {{ end }}
+                </div>
+            </a>
+        </div>
+        {{ end }}
+    </div>
+</div>
+{{ end }}
