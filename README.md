@@ -61,8 +61,8 @@ Check out the `exampleSite/` directory for a complete demonstration of all theme
 
 To run the demo locally:
 ```bash
-cd themes/selloff-theme/exampleSite
-hugo server --themesDir ../.. --theme selloff-theme
+cd exampleSite
+hugo server
 ```
 
 ## Item Configuration
